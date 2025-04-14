@@ -1,6 +1,6 @@
 LICENCE DE PROTECTION EXCLUSIVE
 
-Copyright (c) 2025 [Ton Nom ou Pseudonyme]
+Copyright (c) 2025 [Matthieu Ouvrard]
 
 Tous droits réservés.
 
